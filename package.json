@@ -1,0 +1,19 @@
+{
+  "author": "Alexander Durgin",
+  "name": "cs558-assignment-uploader",
+  "version": "1.0.0",
+  "description": "Simple program to upload assignments to class webserver with.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amdurgin/cs558-assignment-uploader"
+  },
+  "engine": {
+    "node": "*"
+  },
+  "directories": {
+  },
+  "main": "index.js",
+  "license": "MIT"
+  "dependencies": {
+  }
+}
